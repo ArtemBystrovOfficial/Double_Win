@@ -1,5 +1,5 @@
 # Double_Win
-App maden with my library FServe + QT. This is example.
+App maden with my library FServer + QT. This is example.
 
 ![splash](https://user-images.githubusercontent.com/92841151/169089022-c42af2a5-e73b-423f-820b-3217991cd1e1.png)
 
