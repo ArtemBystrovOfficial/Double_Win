@@ -7,7 +7,7 @@ App maden with my library FServer + QT. This is example.
 ## About
 - This is only example, app have some mistakes with GUI, but can work.
 - You can make events with your friends or colab work for freelance
-- Use server for start, use static ip or vpn bridge to your friend `188.168.34.200:2112';
+- Use server for start, use static ip or vpn bridge to your friend `188.168.34.200:2112`;
 - And open setup app after setup.exe on another computers (Now he coonect only to my ip, you can switch ip in main.cpp,sourse and rebuild on QT7)
 ___
 
