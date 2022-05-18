@@ -8,4 +8,4 @@ ___
 
 :email: bystrov.official.one@gmail.com
 
-![logo](https://user-images.githubusercontent.com/92841151/163685103-54875fdc-2b7d-4e54-b73e-6564479622c6.png)
+![splash](https://user-images.githubusercontent.com/92841151/169089022-c42af2a5-e73b-423f-820b-3217991cd1e1.png)
